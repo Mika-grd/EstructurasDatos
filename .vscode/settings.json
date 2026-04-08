@@ -1,0 +1,17 @@
+{
+  // Oculta archivos compilados .class en el Explorador
+  "files.exclude": {
+    "**/*.class": true,
+    "**/*.class.map": true
+  },
+
+  // Evita que aparezcan en búsquedas (opcional)
+  "search.exclude": {
+    "**/*.class": true
+  },
+
+  // Reduce la carga del watcher para carpetas con muchos .class (opcional)
+  "files.watcherExclude": {
+    "**/*.class": true
+  }
+}
