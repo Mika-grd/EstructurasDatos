@@ -1,0 +1,30 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# VSCode
+.vscode/
+
+# IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Build
+out/
+build/
+
+# Logs
+*.log
+
+# Maven
+target/
+
+# Gradle
+.gradle/
